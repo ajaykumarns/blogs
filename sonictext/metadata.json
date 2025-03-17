@@ -1,0 +1,60 @@
+{
+    "posts": [
+      {
+        "slug": "introducing-sonictext",
+        "title": "Introducing SonicText: AI-Powered Audio Transcription",
+        "description": "Learn about SonicText and how it can help you convert audio to text with high accuracy.",
+        "date": "2025-03-11",
+        "author": "SonicText Team",
+        "tags": [
+          "announcement",
+          "features",
+          "transcription"
+        ],
+        "image": "/assets/images/introducing-sonictext/banner.jpg",
+        "readingTime": 5
+      },
+      {
+        "slug": "why-choose-sonictext",
+        "title": "Why Choose Sonic Text?",
+        "description": "Learn why Sonic Text is the best choice for your transcription needs.",
+        "date": "2025-03-12",
+        "author": "SonicText Team",
+        "tags": [
+          "announcement",
+          "features",
+          "transcription"
+        ],
+        "image": "/assets/images/why-choose-sonictext/banner.jpg",
+        "readingTime": 5
+      },
+      {
+        "slug": "what-is-audio-to-text",
+        "title": "What is Audio to Text and How Does it Work?",
+        "description": "Learn about audio to text transcription and how it works.",
+        "date": "2025-03-13",
+        "author": "SonicText Team",
+        "tags": [
+          "audio to text",
+          "speech to text",
+          "audio transcription",
+          "video to text",
+          "transcription"
+        ],
+        "image": "/assets/images/what-is-audio-to-text/banner.jpeg",
+        "readingTime": 5
+      }
+    ],
+    "tags": [
+      "announcement",
+      "features",
+      "transcription",
+      "tutorial",
+      "case-study",
+      "updates",
+      "audio to text",
+      "speech to text",
+      "audio transcription",
+      "video to text"
+    ]
+  }
