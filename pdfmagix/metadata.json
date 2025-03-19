@@ -1,0 +1,14 @@
+{
+    "posts": [
+      {
+        "slug": "introducing-pdfmagix",
+        "title": "Introducing PDFMagix: Your All-in-One PDF Solution",
+        "description": "Learn about PDFMagix, our powerful PDF tools, and how they can streamline your document workflow",
+        "date": "2025-03-11", 
+        "author": "PDF Magix Team",
+        "tags": ["introduction", "tools", "features"],
+        "image": "/assets/images/introducing-pdfmagix/banner.jpg",
+        "readingTime": 5
+      }
+    ]
+}
