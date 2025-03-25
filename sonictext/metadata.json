@@ -1,60 +1,74 @@
 {
-    "posts": [
-      {
-        "slug": "introducing-sonictext",
-        "title": "Introducing SonicText: AI-Powered Audio Transcription",
-        "description": "SonicText is an AI-powered transcription service that converts audio and video into accurate text with speaker detection, multi-language support, and AI features.",
-        "date": "2025-03-11",
-        "author": "SonicText Team",
-        "tags": [
-          "announcement",
-          "features",
-          "transcription"
-        ],
-        "image": "/assets/images/introducing-sonictext/banner.jpg",
-        "readingTime": 5
-      },
-      {
-        "slug": "why-choose-sonictext",
-        "title": "Why Choose Sonic Text?",
-        "description": "SonicText delivers AI-powered, highly accurate transcriptions with fast processing, multi-language support, strong security, and flexible export options at an affordable price.",
-        "date": "2025-03-12",
-        "author": "SonicText Team",
-        "tags": [
-          "announcement",
-          "features",
-          "transcription"
-        ],
-        "image": "/assets/images/why-choose-sonictext/banner.jpg",
-        "readingTime": 5
-      },
-      {
-        "slug": "what-is-audio-to-text",
-        "title": "What is Audio to Text and How Does it Work?",
-        "description": "AI-powered audio to text converts speech to searchable text, boosting accessibility and productivity. Factors like noise and accents impact accuracy. SonicText offers a solution.",
-        "date": "2025-03-13",
-        "author": "SonicText Team",
-        "tags": [
-          "audio to text",
-          "speech to text",
-          "audio transcription",
-          "video to text",
-          "transcription"
-        ],
-        "image": "/assets/images/what-is-audio-to-text/banner.jpeg",
-        "readingTime": 5
-      }
-    ],
-    "tags": [
-      "announcement",
-      "features",
-      "transcription",
-      "tutorial",
-      "case-study",
-      "updates",
-      "audio to text",
-      "speech to text",
-      "audio transcription",
-      "video to text"
-    ]
-  }
+  "posts": [
+    {
+      "slug": "introducing-sonictext",
+      "title": "Introducing SonicText: AI-Powered Audio Transcription",
+      "description": "SonicText is an AI-powered transcription service that converts audio and video into accurate text with speaker detection, multi-language support, and AI features.",
+      "date": "2025-03-11",
+      "author": "SonicText Team",
+      "tags": [
+        "announcement",
+        "features",
+        "transcription"
+      ],
+      "image": "/assets/images/introducing-sonictext/banner.jpg",
+      "readingTime": 5
+    },
+    {
+      "slug": "why-choose-sonictext",
+      "title": "Why Choose Sonic Text?",
+      "description": "SonicText delivers AI-powered, highly accurate transcriptions with fast processing, multi-language support, strong security, and flexible export options at an affordable price.",
+      "date": "2025-03-12",
+      "author": "SonicText Team",
+      "tags": [
+        "announcement",
+        "features",
+        "transcription"
+      ],
+      "image": "/assets/images/why-choose-sonictext/banner.jpg",
+      "readingTime": 5
+    },
+    {
+      "slug": "what-is-audio-to-text",
+      "title": "What is Audio to Text and How Does it Work?",
+      "description": "AI-powered audio to text converts speech to searchable text, boosting accessibility and productivity. Factors like noise and accents impact accuracy. SonicText offers a solution.",
+      "date": "2025-03-13",
+      "author": "SonicText Team",
+      "tags": [
+        "audio to text",
+        "speech to text",
+        "audio transcription",
+        "video to text",
+        "transcription"
+      ],
+      "image": "/assets/images/what-is-audio-to-text/banner.jpeg",
+      "readingTime": 5
+    },
+    {
+      "slug": "share-your-transcript",
+      "title": "Share Your Transcript with Ease",
+      "description": "SonicText allows you to share your transcript with ease. You can share your transcript with your team, clients, or anyone you want.",
+      "date": "2025-03-14",
+      "author": "SonicText Team",
+      "tags": [
+        "announcement",
+        "features",
+        "transcription"
+      ],
+      "image": "/assets/images/share-your-transcript/banner.png",
+      "readingTime": 2
+    }
+  ],
+  "tags": [
+    "announcement",
+    "features",
+    "transcription",
+    "tutorial",
+    "case-study",
+    "updates",
+    "audio to text",
+    "speech to text",
+    "audio transcription",
+    "video to text"
+  ]
+}
