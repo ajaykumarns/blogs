@@ -71,6 +71,20 @@
       ],
       "image": "/assets/images/video-transcription-launch/banner.png",
       "readingTime": 2
+    },
+    {
+      "slug": "cloud-storage-integration",
+      "title": "Cloud Storage Integration",
+      "description": "SonicText now supports integration with cloud storage services. You can now share files from your cloud storage services with SonicText.",
+      "date": "2025-03-27",
+      "author": "SonicText Team",
+      "tags": [
+        "announcement",
+        "features",
+        "transcription"
+      ],
+      "image": "/assets/images/cloud-storage-integration/banner.png",
+      "readingTime": 2
     }
   ],
   "tags": [
