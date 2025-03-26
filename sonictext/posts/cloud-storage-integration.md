@@ -15,12 +15,12 @@ We're excited to announce that SonicText now supports direct transcription from 
 1. Open your file in Google Drive
 2. Click "Share" and set access to "Anyone with the link" 
 
-![Share from Google Drive](/assets/images/cloud-storage-integration/share_from_drive.png)
+![Share from Google Drive](https://raw.githubusercontent.com/ajaykumarns/blogs/refs/heads/main/sonictext/assets/images/cloud-storage-integration/share_from_drive.png)
 
 3. Copy the sharing URL
 4. Paste the URL into SonicText
 
-![Paste into SonicText](/assets/images/cloud-storage-integration/paste_url.png)
+![Paste into SonicText](https://raw.githubusercontent.com/ajaykumarns/blogs/refs/heads/main/sonictext/assets/images/cloud-storage-integration/paste_url.png)
 5. Start transcription! ✨
 
 ### For Dropbox Files 📦
