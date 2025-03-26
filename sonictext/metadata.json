@@ -48,7 +48,7 @@
       "slug": "share-your-transcript",
       "title": "Share Your Transcript with Ease",
       "description": "SonicText allows you to share your transcript with ease. You can share your transcript with your team, clients, or anyone you want.",
-      "date": "2025-03-14",
+      "date": "2025-03-25",
       "author": "SonicText Team",
       "tags": [
         "announcement",
@@ -56,6 +56,20 @@
         "transcription"
       ],
       "image": "/assets/images/share-your-transcript/banner.png",
+      "readingTime": 2
+    },
+    {
+      "slug": "video-transcription-launch",
+      "title": "Video Transcription Launch",
+      "description": "SonicText now supports video transcription. You can now transcribe videos with ease.",
+      "date": "2025-03-26",
+      "author": "SonicText Team",
+      "tags": [
+        "announcement",
+        "features",
+        "transcription"
+      ],
+      "image": "/assets/images/video-transcription-launch/banner.png",
       "readingTime": 2
     }
   ],
