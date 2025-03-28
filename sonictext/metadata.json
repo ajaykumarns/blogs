@@ -85,18 +85,42 @@
       ],
       "image": "/assets/images/cloud-storage-integration/banner.jpg",
       "readingTime": 2
+    },
+    {
+      "slug": "browser-recording-launch",
+      "title": "Record & Transcribe Directly from Your Browser!",
+      "description": "Record audio directly in your browser and get instant transcripts. Plus, new tools for splitting audio clips and downloading recordings.",
+      "date": "2025-03-28",
+      "author": "SonicText Team",
+      "tags": [
+        "announcement",
+        "features",
+        "transcription",
+        "browser recording",
+        "meeting notes",
+        "notes taker",
+        "meeting transcription",
+        "meeting notes taker"
+      ],
+      "image": "/assets/images/browser-recording-launch/banner.png",
+      "readingTime": 3
     }
   ],
   "tags": [
     "announcement",
+    "audio to text",
+    "audio transcription",
+    "browser recording",
+    "case-study",
     "features",
+    "meeting notes taker",
+    "meeting notes",
+    "meeting transcription",
+    "notes taker",
+    "speech to text",
     "transcription",
     "tutorial",
-    "case-study",
     "updates",
-    "audio to text",
-    "speech to text",
-    "audio transcription",
     "video to text"
   ]
 }
